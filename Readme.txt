@@ -11,8 +11,7 @@ If you dont want the background changing features of this application then I rec
 --INSTALLATION--
 1. For those who don't have python, you can use this tutorial https://www.youtube.com/watch?v=3lGhtIqT0Tk or just figure it out.
 
-There are 2 ways you can use this script. You can either create a shortcut to it on your desktop and refresh the image when you please by running the shortcut
-or you can have the script run on startup and change the background whenever you start up you computer. You can also do both.
+There are 2 ways you can use this script. You can either create a shortcut to it on your desktop and refresh the image when you please by running the shortcut or you can have the script run on startup and change the background whenever you start up you computer. You can also do both.
 
 2. Copy bgnlist1 and changebgrnd.pyw to a safe location, e.g a folder on your desktop or in your documents.
 
